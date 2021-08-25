@@ -1,6 +1,6 @@
 # dmextract
 Dataset and method extraction
 
-********************Usesul Resources********************************
 
+Usesul Resources:
 Simple transformer tutorial https://simpletransformers.ai/docs/ner-model/
